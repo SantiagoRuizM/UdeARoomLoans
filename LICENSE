@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2022 Kichiro Nakamoto
+=======
+Copyright (c) 2022 Kichiro Nakamoto.
+>>>>>>> 46669f4f392d77f53d033f38eb67ed807cc94819
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
